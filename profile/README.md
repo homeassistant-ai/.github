@@ -30,9 +30,8 @@ Curated collection of Claude Code skills for Home Assistant development, automat
 
 ## 📖 Resources
 
-- [Home Assistant Developer Docs](https://developers.home-assistant.io/)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
-- [Claude Code Documentation](https://docs.anthropic.com/claude/docs/claude-code)
+- [Agents Skills](https://agentskills.io/)
 
 ## 🔒 Security
 
