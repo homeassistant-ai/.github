@@ -9,7 +9,7 @@ We develop tools and frameworks that enable AI assistants to control and manage 
 ## 📦 Projects
 
 ### [ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
-Production-ready MCP server providing 80+ tools for AI assistants to control Home Assistant. Manage entities, create automations, configure devices, and more—all through natural language.
+MCP server providing 80+ tools for AI assistants to control Home Assistant. Manage entities, create automations, configure devices, and more—all through natural language.
 
 **Install:**
 ```bash
