@@ -17,9 +17,9 @@ pip install ha-mcp
 ```
 
 ### [skills](https://github.com/homeassistant-ai/skills)
-Curated collection of Claude Code skills for Home Assistant development, automation creation, and system management. Designed to guide AI agents through complex workflows.
+Agent Skills for Home Assistant configuration following the open [Agent Skills standard](https://agentskills.io/specification). Guides AI agents through writing automations, selecting helpers, controlling devices, and safely refactoring HA configurations.
 
-**Use:** Available in Claude Code's skill marketplace.
+**Install:** See [installation options](https://github.com/homeassistant-ai/skills#installation).
 
 ## 🤝 Get Involved
 
